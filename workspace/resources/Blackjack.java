@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Queue;
 import java.util.Stack;
 
-public class Solitaire {
+public class Blackjack {
 	ArrayList<Stack <Card>> columns;
 	Queue<Card> deck;
 	
